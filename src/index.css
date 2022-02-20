@@ -1,9 +1,12 @@
 body {
-  width: 550px;
-  height: 868px;
   background-color: #23252c;
   font-family: 'Inter', sans-serif;
   
+}
+
+.App {
+  display: flex;
+  justify-content: center;
 }
 
 .image {
