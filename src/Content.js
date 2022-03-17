@@ -7,7 +7,7 @@ function Content() {
     return (
         <main className="main-content">
             <h3 className="name">Syahreza Pratama</h3>
-            <p className="occupation">Information System Student</p>
+            <p className="occupation">Business Information System Student</p>
             <div className="buttons">
                 <button type="button" className="btn-email" onClick="window.location.href='google.com'">
                     <FontAwesomeIcon icon={faEnvelope} />
